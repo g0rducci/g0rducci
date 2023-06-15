@@ -1,7 +1,7 @@
 
 ### Hello world!, my name is Yair  👋 and I ❤️ open-source
 
-**Field of interests**: Cloud, Distributed Infrastructure, Kuberntes, Open Source, Linux, Tech Lead
+**Field of interests**: Cloud, Distributed Infrastructure, Kubernetes, Open Source, Linux, Tech Lead
 
 * 🧐   Cloud Engineer. Recent focus on k8S, GitOps, DevOps. Studying Cloud Engineering [@TheLinuxFoundation](https://training.linuxfoundation.org/training/advanced-cloud-engineer-bootcamp/)
 * 💼   Used to be a Tech Lead at canalonce.mx, News Division , but now I'm a Linux Foundation Student and contribuitor.

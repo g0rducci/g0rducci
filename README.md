@@ -3,7 +3,7 @@
 
 **Field of interests**: Cloud, Distributed Infrastructure, Kuberntes, Open Source, Linux, Tech Lead
 
-* 🧐   Interested in Cloud Engineering. Recent focus on Infra. Studying Cloud Engineering  [@TheLinuxFoundation](https://training.linuxfoundation.org/training/advanced-cloud-engineer-bootcamp/)
+* 🧐   Cloud Engineer. Recent focus on k8S, GitOps, DevOps. Studying Cloud Engineering [@TheLinuxFoundation](https://training.linuxfoundation.org/training/advanced-cloud-engineer-bootcamp/)
 * 💼   Used to be a Tech Lead at canalonce.mx, News Division , but now I'm a Linux Foundation Student and contribuitor.
 * 🎓   Master of Cibersecurity, B.S. in Computer Science.
 * 🐧   Currently learning Go , Kubernetes, Serverless, IA.

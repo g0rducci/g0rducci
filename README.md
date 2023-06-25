@@ -2,7 +2,7 @@
 ### Hello world!, my name is Yair  👋 and I ❤️ open-source
 
 ## Cloud Engineer, CKA Certified, LFCS Certified, BsCompSC Degree
-
+## ☞ [My Personal Website ](https://g0rducci.framer.website/)
 **Field of interests**: Platform Engineering, Distributed Infrastructure, Kubernetes, Open Source
 
 * 🧐   Cloud Engineer. Recent focus on k8S, GitOps, DevOps. Studying Cloud Engineering [@TheLinuxFoundation](https://training.linuxfoundation.org/training/advanced-cloud-engineer-bootcamp/)

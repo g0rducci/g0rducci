@@ -1,12 +1,14 @@
 
 ### Hello world!, my name is Yair  👋 and I ❤️ open-source
 
+## Cloud Engineer, CKA Certified, LFCS Certified, BsCompSC Degree
+
 **Field of interests**: Platform Engineering, Distributed Infrastructure, Kubernetes, Open Source
 
 * 🧐   Cloud Engineer. Recent focus on k8S, GitOps, DevOps. Studying Cloud Engineering [@TheLinuxFoundation](https://training.linuxfoundation.org/training/advanced-cloud-engineer-bootcamp/)
 * 💼   Used to be a Tech Lead at canalonce.mx, News Division , but now I'm a Linux Foundation Student and contribuitor.
 * 🎓   Master of Cibersecurity, B.S. in Computer Science.
-* 🐧   Currently learning Go , Kubernetes, Serverless, IA.
+* 🐧   Currently learning Go , Platform Engineering, Serverless, IA.
 * 📚   Reading 《Hacking Kubernetes.》《Container Security》.
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.

@@ -18,7 +18,7 @@
 - **Languages**: &nbsp;                          Python, Javascript
 - **k8s**:  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; EKS, AKS, GKE, K3s, Rancher , Minikube 
 - **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;AWS, CGP, Azure, DO
-- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Jenkins, ArgoCD, Azure DevOps
+- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Jenkins, ArgoCD, Github Actions, Azure DevOps
 - **Tools**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Terraform, Pulumi, Datadog, Grafana
 
 

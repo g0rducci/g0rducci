@@ -5,7 +5,7 @@
 ## ☞ [My Personal Website ](https://g0rducci.framer.website/)
 **Field of interests**: Platform Engineering, Distributed Infrastructure, Kubernetes, Open Source
 
-* 🧐   Cloud Engineer. Recent focus on k8S, GitOps, DevOps. Studying Cloud Engineering [@TheLinuxFoundation](https://training.linuxfoundation.org/training/advanced-cloud-engineer-bootcamp/)
+* 🧐   Cloud Engineer. Recent focus on k8S, Platform Engineering, GitOps, DevOps. Cloud Engineering Cert [@TheLinuxFoundation](https://training.linuxfoundation.org/training/advanced-cloud-engineer-bootcamp/)
 * 💼   Used to be a Tech Lead at canalonce.mx, News Division , but now I'm a Linux Foundation Student and contribuitor.
 * 🎓   Master of Cibersecurity, B.S. in Computer Science.
 * 🐧   Currently learning Go , Platform Engineering, Serverless, IA.

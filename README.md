@@ -13,6 +13,11 @@
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I have my side project, i founded  [unocerodigital.com](https://unocerodigital.com/) in 2019.
+* 
+| Servidor | Ventajas | Desventajas |
+| --- | --- | --- |
+| HPE DL380 | - Hasta 24 bahías de unidades de disco duro. <br> - Hasta 3 ranuras PCIe 3.0. <br> - Hasta 3 fuentes de alimentación redundantes. <br> - Hasta 2 procesadores escalables Intel Xeon. | - Limitado en términos de flexibilidad y escalabilidad. <br> - Requiere espacio físico en un rack dedicado. <br> - Puede tener un consudasdamo de energía más alto en comparación con soluciones más modernas. |
+| HPE Synergy 480 | - Hasta 6 módulos de cómputo por chasis. <br> - Hasta 6 módulos de almacenamiento por chasis. <br> - Hasta 6 módulos de conexión por chasis. <br> - Capacidad de compartir recursos entre módulos. | - Requiere una inversión inicial más alta debido a su enfoque en la infraestructura componible. <br> - Puede requerir una curva de aprendizaje para administrar eficientemente la infraestructura componible. <br> - La implementación inicial puede llevar más tiempo en comparación con soluciones tradicionales. |
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                          Python, Javascript, Golang
